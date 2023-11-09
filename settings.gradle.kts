@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "WiFi Logger"
 include(":app")
+include(":domain")
